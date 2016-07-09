@@ -33,11 +33,7 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
-/client/node_modules
-/client/public/bower_components
-/client/public/.bower-cache
-/client/public/.bower-registry
-/client/public/.bower-tmp
+
 
 # Optional npm cache directory
 .npm
